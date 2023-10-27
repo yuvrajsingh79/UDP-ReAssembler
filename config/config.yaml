@@ -1,0 +1,6 @@
+UDPPort: 6789
+UDPPacketBufferSize: 8192
+HTTPListenAddress: ":8080"
+IncompleteMessageCleanupInterval: 30s
+LogLevel: "info"
+FragmentCacheTimeout: 60s
